@@ -2,6 +2,8 @@
 
 An MCP server that provides tools for downloading and optimizing images. Built using the Model Context Protocol (MCP), this server enables AI assistants to download images from URLs and perform basic image optimization tasks.
 
+<a href="https://glama.ai/mcp/servers/v4v1zhplpd"><img width="380" height="200" src="https://glama.ai/mcp/servers/v4v1zhplpd/badge" alt="mcp-image-downloader MCP server" /></a>
+
 ## Features
 
 - Download images from URLs with proper error handling
